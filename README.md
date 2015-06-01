@@ -1,4 +1,4 @@
-# The Definitive List of JavaScript Learning Ressources
+# My Curated List of JavaScript Learning Resources
 
 ## Tutorials
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
@@ -18,6 +18,8 @@
 * [Are you bad, good, better or best with Async JS? JS Tutorial: Callbacks, Promises, Generators](https://youtu.be/obaSQBBWZLk)
 
 ## MeteorJS
+### Tutorials
+* [Building a Slack Clone with Meteor.js](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started)
 
-## Ressources
+## Resources
 * [Mozilla Developer Network JavaScript Portal](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
