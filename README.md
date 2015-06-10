@@ -11,6 +11,10 @@
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [JS The Right Way](http://jstherightway.org/)
 
+### Books
+* JavaScript: The Good Parts
+* Eloquent JavaScript
+
 ### Advanced
 * [Elijah Manor @ NashJS: Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=7L2dJyO7nDc)
 * [JavaScript Design Patterns & Antipatterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -18,6 +22,10 @@
 
 ### ECMAScript6
 * [BabelJS: Learn ES6 | A detailed overview of ECMAScript 6 features.](http://babeljs.io/docs/learn-es6/)
+
+### Further Compilations
+* http://stackoverflow.com/questions/11246/best-resources-to-learn-javascript
+* http://www.quora.com/What-are-the-best-resources-for-learning-JavaScript
 
 ## MeteorJS
 ### Tutorials
